@@ -248,9 +248,3 @@ int main(void){
     menu(); // Chama o menu para iniciar o jogo
     return 0;
 }
-
-
-int main(void){
-    menu();
-    return 0;
-}
